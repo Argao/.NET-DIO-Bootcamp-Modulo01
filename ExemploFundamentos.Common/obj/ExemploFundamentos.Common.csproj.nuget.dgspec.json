@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jgabr\\Documents\\DIO\\C#Modulo1\\.NET-DIO-Bootcamp-Modulo01\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {}
+    "C:\\Users\\jgabr\\Documents\\DIO\\.NET\\.NET-DIO-Bootcamp-Modulo01\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jgabr\\Documents\\DIO\\C#Modulo1\\.NET-DIO-Bootcamp-Modulo01\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
+    "C:\\Users\\jgabr\\Documents\\DIO\\.NET\\.NET-DIO-Bootcamp-Modulo01\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jgabr\\Documents\\DIO\\C#Modulo1\\.NET-DIO-Bootcamp-Modulo01\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
+        "projectUniqueName": "C:\\Users\\jgabr\\Documents\\DIO\\.NET\\.NET-DIO-Bootcamp-Modulo01\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
         "projectName": "ExemploFundamentos.Common",
-        "projectPath": "C:\\Users\\jgabr\\Documents\\DIO\\C#Modulo1\\.NET-DIO-Bootcamp-Modulo01\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
+        "projectPath": "C:\\Users\\jgabr\\Documents\\DIO\\.NET\\.NET-DIO-Bootcamp-Modulo01\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
         "packagesPath": "C:\\Users\\jgabr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jgabr\\Documents\\DIO\\C#Modulo1\\.NET-DIO-Bootcamp-Modulo01\\ExemploFundamentos.Common\\obj\\",
+        "outputPath": "C:\\Users\\jgabr\\Documents\\DIO\\.NET\\.NET-DIO-Bootcamp-Modulo01\\ExemploFundamentos.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jgabr\\AppData\\Roaming\\NuGet\\NuGet.Config"

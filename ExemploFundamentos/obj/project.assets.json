@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jgabr\\Documents\\DIO\\C#Modulo1\\.NET-DIO-Bootcamp-Modulo01\\ExemploFundamentos\\ExemploFundamentos.csproj",
+      "projectUniqueName": "C:\\Users\\jgabr\\Documents\\DIO\\.NET\\.NET-DIO-Bootcamp-Modulo01\\ExemploFundamentos\\ExemploFundamentos.csproj",
       "projectName": "ExemploFundamentos",
-      "projectPath": "C:\\Users\\jgabr\\Documents\\DIO\\C#Modulo1\\.NET-DIO-Bootcamp-Modulo01\\ExemploFundamentos\\ExemploFundamentos.csproj",
+      "projectPath": "C:\\Users\\jgabr\\Documents\\DIO\\.NET\\.NET-DIO-Bootcamp-Modulo01\\ExemploFundamentos\\ExemploFundamentos.csproj",
       "packagesPath": "C:\\Users\\jgabr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jgabr\\Documents\\DIO\\C#Modulo1\\.NET-DIO-Bootcamp-Modulo01\\ExemploFundamentos\\obj\\",
+      "outputPath": "C:\\Users\\jgabr\\Documents\\DIO\\.NET\\.NET-DIO-Bootcamp-Modulo01\\ExemploFundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jgabr\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\jgabr\\Documents\\DIO\\C#Modulo1\\.NET-DIO-Bootcamp-Modulo01\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
-              "projectPath": "C:\\Users\\jgabr\\Documents\\DIO\\C#Modulo1\\.NET-DIO-Bootcamp-Modulo01\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj"
+            "C:\\Users\\jgabr\\Documents\\DIO\\.NET\\.NET-DIO-Bootcamp-Modulo01\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
+              "projectPath": "C:\\Users\\jgabr\\Documents\\DIO\\.NET\\.NET-DIO-Bootcamp-Modulo01\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj"
             }
           }
         }

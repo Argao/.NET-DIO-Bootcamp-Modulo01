@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jgabr\\Documents\\DIO\\.NET-DIO-BOOTCAMP\\ExemploFundamentos.NET6\\ExemploFundamentos.NET6.csproj",
+      "projectUniqueName": "C:\\Users\\jgabr\\Documents\\DIO\\.NET\\.NET-DIO-Bootcamp-Modulo01\\ExemploFundamentos.NET6\\ExemploFundamentos.NET6.csproj",
       "projectName": "ExemploFundamentos.NET6",
-      "projectPath": "C:\\Users\\jgabr\\Documents\\DIO\\.NET-DIO-BOOTCAMP\\ExemploFundamentos.NET6\\ExemploFundamentos.NET6.csproj",
+      "projectPath": "C:\\Users\\jgabr\\Documents\\DIO\\.NET\\.NET-DIO-Bootcamp-Modulo01\\ExemploFundamentos.NET6\\ExemploFundamentos.NET6.csproj",
       "packagesPath": "C:\\Users\\jgabr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jgabr\\Documents\\DIO\\.NET-DIO-BOOTCAMP\\ExemploFundamentos.NET6\\obj\\",
+      "outputPath": "C:\\Users\\jgabr\\Documents\\DIO\\.NET\\.NET-DIO-Bootcamp-Modulo01\\ExemploFundamentos.NET6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jgabr\\AppData\\Roaming\\NuGet\\NuGet.Config"
